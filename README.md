@@ -1,12 +1,12 @@
 # 🔐 DataBreachViewer - View Breached Data Instantly
 
-**DataBreachViewer** is an open-source Windows executable tool that allows users to view leaked or breached data such as emails, usernames, phone numbers, domains, and passwords and more.. — all in a clean, readable format.
+**DataBreachViewer** is an open-source Windows executable tool that allows users to view leaked or breached data such as emails, usernames, phone numbers, domains, and passwords and many more..  — all in a clean, readable format.
 
 ---
 
 ## 💡 Features
 
-- 🔍 View exposed **emails**, **usernames**, **phone numbers**, **domains**, and **passwords** and many more...
+- 🔍 View exposed **emails**, **usernames**, **phone numbers**, **domains**, and **passwords** and many more..
 - 📄 Displays data in **clear-text** format
 - 🖥️ Simple and user-friendly standalone tool
 - 📂 Lightweight and portable `.exe` file
@@ -21,7 +21,9 @@
 3. The tool will load and display breached data in a readable format.
 4. Scroll or search to explore the leaked records.
 
-> ⚠️ **Important Note:**  
+> 📞 **Note:** When searching for a phone number, always include the country code (e.g., `+91xxxxxxxxxx` for India). This helps ensure accurate results.
+
+> ⚠️ **Important Security Note:**  
 > Since this is a custom executable file, **some browsers or antivirus software may flag it as a potential threat**.  
 > This is a **false positive** due to the nature of `.exe` files and their behavior. The tool is open-source and safe to use.
 
