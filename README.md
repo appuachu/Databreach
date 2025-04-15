@@ -6,7 +6,7 @@
 
 ## 💡 Features
 
-- 🔍 View exposed **emails**, **usernames**, **phone numbers**, **domains**, and **passwords**
+- 🔍 View exposed **emails**, **usernames**, **phone numbers**, **domains**, and **passwords** and many more...
 - 📄 Display data in **clear-text** format
 - 🖥️ Simple and user-friendly executable tool
 - 📂 Lightweight and portable `.exe` file
